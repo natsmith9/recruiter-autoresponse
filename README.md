@@ -10,7 +10,7 @@ If you like it, please consider leaving a github star.  I think that it would be
 ```
 Thank you so much for reaching out. I'm always interested in hearing about what new and exciting opportunities are out there. As a mainframe database administrator and IT professional, I'm sure you can imagine that I get a very high volume of recruiters reaching out on LinkedIn. It is a wonderful position of privilege to be in and I'm thankful for it.
 
-It does, however, mean that I don't have the time to hop on a call with everyone who reaches out. A lot of the time incoming messages represent a very poor fit indeed.
+It does, however, mean that I don't have the time chat with everyone who reaches out. A lot of the time incoming messages represent a very poor fit.
 
 I would love to continue the conversation, but I'd like to level set around the level of seniority that you're looking for before continuing the conversation.
 
